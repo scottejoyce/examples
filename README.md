@@ -1,2 +1,2 @@
-# examples
-Example Code
+# Examples
+Used for examples. 
